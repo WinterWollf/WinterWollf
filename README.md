@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Wiktor! 👋
 
-<!--
-**WinterWollf/WinterWollf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at AGH University of Science and Technology in Kraków, passionate about programming, DevOps, automation, and efficient software solutions. I enjoy solving complex problems and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## Contact
+Want to talk about tech or collaboration? Reach out to me:
+- 📧 Email: [wiktorszyszka.priv@gmail.com](mailto:wiktorszyszka.priv@gmail.com)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/wiktor-szyszka-60ba82270/?locale=en_US)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Python, C++, C, Java
+- **Tools & Technologies:** Git, Docker, Bash, Github, GitLab, Postman, PowerShell
+- **IDE & Platforms:** VS Code, Linux, Windows, Stack Overflow
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,git,docker,linux,bash,gitlab,windows,markdown,postman,powershell,stackoverflow,vscode" />
+  </a>
+</p>
