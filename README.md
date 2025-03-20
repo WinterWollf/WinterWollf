@@ -1,6 +1,6 @@
 # Hi, I'm Wiktor! 👋
 
-I’m a Computer Science student at AGH University of Science and Technology in Kraków, passionate about programming, DevOps, automation, and efficient software solutions. I enjoy solving complex problems and continuously learning new technologies.
+I’m a Computer Science student at AGH University of Science and Technology in Cracow, passionate about programming, DevOps, automation, and efficient software solutions. I enjoy solving complex problems and continuously learning new technologies.
 
 ## Contact
 Want to talk about tech or collaboration? Reach out to me:
