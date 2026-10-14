@@ -4,13 +4,12 @@ I’m a Computer Science student at AGH University of Science and Technology in 
 
 ## Contact
 Want to talk about tech or collaboration? Reach out to me:
-- 📧 Email: [wiktorszyszka.priv@gmail.com](mailto:wiktorszyszka.priv@gmail.com)
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/wiktorszyszka/?locale=en_US)
 
 ## Skills
 
-- **Languages:** Python, C++, C, Java
-- **Tools & Technologies:** Git, Docker, Bash, Github, GitLab, Postman, PowerShell
+- **Languages:** Python, C++, C
+- **Tools & Technologies:** Git, Docker, Bash, PowerShell, PowerCLI, Veeam, VMware
 - **IDE & Platforms:** VS Code, Linux, Windows, Stack Overflow
 
 <p align="center">
